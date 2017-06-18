@@ -4,7 +4,7 @@
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/screenshot.png)
+![minima theme preview](https://images.unsplash.com/photo-1452825152636-89e0f09f1267?dpr=2&auto=compress,format&fit=crop&w=1199&h=795&q=80&cs=tinysrgb&crop=&bg=)
 
 ## Installation
 
